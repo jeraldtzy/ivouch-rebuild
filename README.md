@@ -11,4 +11,6 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Use react-excel-renderer from https://github.com/jeraldtzy/react-excel-renderer.
+Download react-excel-renderer from https://github.com/jeraldtzy/react-excel-renderer.
+
+Enter npm install /path to react-excel-renderer

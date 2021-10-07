@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ivouch-rebuild/static/css/main.c11017c4.chunk.css",
+    "main.js": "/ivouch-rebuild/static/js/main.ea8129c3.chunk.js",
+    "main.js.map": "/ivouch-rebuild/static/js/main.ea8129c3.chunk.js.map",
+    "runtime-main.js": "/ivouch-rebuild/static/js/runtime-main.5c8a5386.js",
+    "runtime-main.js.map": "/ivouch-rebuild/static/js/runtime-main.5c8a5386.js.map",
+    "static/css/2.cce5f801.chunk.css": "/ivouch-rebuild/static/css/2.cce5f801.chunk.css",
+    "static/js/2.616c3e0c.chunk.js": "/ivouch-rebuild/static/js/2.616c3e0c.chunk.js",
+    "static/js/2.616c3e0c.chunk.js.map": "/ivouch-rebuild/static/js/2.616c3e0c.chunk.js.map",
+    "index.html": "/ivouch-rebuild/index.html",
+    "static/css/2.cce5f801.chunk.css.map": "/ivouch-rebuild/static/css/2.cce5f801.chunk.css.map",
+    "static/css/main.c11017c4.chunk.css.map": "/ivouch-rebuild/static/css/main.c11017c4.chunk.css.map",
+    "static/js/2.616c3e0c.chunk.js.LICENSE.txt": "/ivouch-rebuild/static/js/2.616c3e0c.chunk.js.LICENSE.txt",
+    "static/js/main.ea8129c3.chunk.js.LICENSE.txt": "/ivouch-rebuild/static/js/main.ea8129c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c8a5386.js",
+    "static/css/2.cce5f801.chunk.css",
+    "static/js/2.616c3e0c.chunk.js",
+    "static/css/main.c11017c4.chunk.css",
+    "static/js/main.ea8129c3.chunk.js"
+  ]
+}

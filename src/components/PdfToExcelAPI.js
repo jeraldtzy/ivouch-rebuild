@@ -53,7 +53,7 @@ class PdfToExcelAPI extends React.Component {
   }
 
   fileUpload(file) {
-    const url = 'https://pdftables.com/api?key=sgk0t1fhli83&format=xlsx-single';
+    const url = 'https://pdftables.com/api?key=YOUR_API_KEY&format=xlsx-single';
     const formData = new FormData();
     formData.append("file", file);
     const config = {
